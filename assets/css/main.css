@@ -83,8 +83,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-color: #fff;
+		background-image: url("images/overlay.png"), url("../../images/simsprototypepic2.JPG");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -2087,9 +2087,9 @@ input, select, textarea {
 	#banner {
 		position: relative;
 		color: #fff;
-		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+		text-shadow: 010 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("images/banner.svg") bottom center no-repeat;
+		background: rgba(0, 45, 114, 0.75) url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
@@ -2352,8 +2352,8 @@ input, select, textarea {
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
-				background-repeat: repeat, no-repeat;
+				background-image: url("../../images/simsgif.gif");
+				background-repeat: no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
